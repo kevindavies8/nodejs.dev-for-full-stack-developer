@@ -97,7 +97,7 @@
     "@types/color": "^3.0.3",
     "@types/color-string": "^1.5.2",
     "@types/elasticlunr": "^0.9.5",
-    "@types/jest": "^28.1.6",
+    "@types/jest": "^28.1.8",
     "@types/jest-axe": "^3.5.4",
     "@types/mdx-js__react": "^1.5.5",
     "@types/react-click-outside-hook": "^1.0.0",
