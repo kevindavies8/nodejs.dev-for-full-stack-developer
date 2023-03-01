@@ -128,7 +128,7 @@
     "jest-fetch-mock": "^3.0.3",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "pa11y": "^6.2.3",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.4",
     "remark-cli": "^11.0.0",
     "remark-frontmatter": "^4.0.1",
     "remark-preset-lint-node": "^3.3.1",
