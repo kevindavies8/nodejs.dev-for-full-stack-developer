@@ -17,7 +17,7 @@
     "color-string": "^1.9.1",
     "dotenv": "^16.0.1",
     "elasticlunr": "^0.9.5",
-    "framer-motion": "^6.5.1",
+    "framer-motion": "^11.0.8",
     "gatsby": "^4.20.0",
     "gatsby-link": "^4.20.0",
     "gatsby-plugin-canonical-urls": "^4.20.0",
